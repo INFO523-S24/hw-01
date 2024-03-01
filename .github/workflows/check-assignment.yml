@@ -10,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Check Files
-      run: python check_allowed_files.py "hw-01.qmd" "hw-01.ipynb" "README.md" "data/*" "images/*" "check_allowed_files.py" "requirements.txt"
+      run: python check_allowed_files.py "hw-01.qmd" "hw-01.ipynb" "README.md" "data/*" "images/*" "check_allowed_files.py" "requirements.txt" "reports/*"
 
   check-renders:
     env:
