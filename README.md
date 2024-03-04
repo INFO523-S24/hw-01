@@ -11,7 +11,6 @@ all checks pass.
 
 **Make sure all Python libraries used are in the `requirements.txt` file!**
 
----
 
 ## Part 1: Python Basics
 
