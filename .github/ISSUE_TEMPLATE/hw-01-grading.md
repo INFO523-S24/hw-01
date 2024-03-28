@@ -54,7 +54,7 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 - `[_ / 3]` - Code style: Follows the rule of six, spaces around operators, spaces after commas, lines not too long, etc.
 - `[_ / 3]` - Code smell: Messy / unnecessarily complex code, difficult to follow, unaddressed warnings, etc.
 - `[_ / 3]` - Quality and quantity of commits: No uninformative/nonsense text in commit messages, entire assignment not committed in a single commit.
-- `[_ / 3]` - Correct repository organization: data is in a `data/` folder if applicable, no stray files, foles are names correctly.
+- `[_ / 3]` - Correct repository organization: data is in a `data/` folder if applicable, no stray files, files are names correctly.
 - `[_ / 3]` - Font size, organization: No crazy large text for narrative, questions answered in order and identified, easy to follow.
 
 ## Late penalty
